@@ -6,7 +6,7 @@ April 26, 2021
 
 ## Overview 
 
-This project was about performing a statistical analysis that showed measures of central tendency and percentile ranks for temperature data in Oahu, Hawaii using SQLAlchemy and Python. This analysis will deteremine if the surf and ice cream shop businesses is suitable in this region year-round. 
+This project was about performing a statistical analysis that explores measures of central tendency and percentile ranks for temperature data in Oahu, Hawaii using SQLAlchemy and Python. This analysis will deteremine if the surf and ice cream shop businesses is suitable in this region year-round. 
 
 ## Results 
 The following are the results of my analysis: 
